@@ -24,8 +24,8 @@ avatar: /image/avatar.png
 ## Complete url after key words.
 ## Unused key can be commented out.
 links:
-  Blog: /archives
-  Category: /catagory
+  Blog: /index
+  Category: /category
   Tags: /tag
   # Link:
   # Resume:
